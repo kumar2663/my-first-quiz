@@ -1,0 +1,59 @@
+body{
+  background-color: #3B6978;
+}
+.heading{
+  text-align: center;
+  font-size: 3rem;
+}
+
+.body{
+  background-color: #D3DBFF;
+  border-radius: 5px;
+  margin: 5% 4% 2% 4%;
+}
+.info{
+  text-align: center;
+  padding:1%;
+}
+.info h3{
+  text-align: left;
+  margin: 0;
+}
+.q-display{
+  background-color: #84A9AC;
+  display: inline-block;
+  padding: 5% 2% 2% 3%;
+  margin-left: 10%;
+  margin-bottom: 6%;
+  border-radius: 8px;
+}
+.main-div{
+  background-color: #84A9AC;
+  display: inline-block;
+  margin-bottom: 4%;
+  margin-left: 6%;
+  padding-left: 2%;
+  padding-right: 25%;
+  padding-bottom: 2%;
+  border-radius: 8px;
+}
+.box{
+  margin-bottom: 8%;
+  padding: 2% 8% ;
+  border-width: medium;
+}
+.next,.submitAll{
+  margin-top: 10%;
+  margin-left: 20%;
+  border-color: lightblue;
+  color: blue;
+}
+.next:hover,.submitAll:hover{
+  background-color: lightblue;
+}
+.submitAll{
+  position: relative;
+}
+.name,.study{
+  width: 100px;
+}
